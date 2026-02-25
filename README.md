@@ -25,5 +25,5 @@
 
 <img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
 
-[GitHubAcc]: https://github.com/YVSimeonova19
+[GitHubAcc]: https://github.com/ysimeonova
 [LinkedInAcc]: https://www.linkedin.com/in/yvsimeonova
