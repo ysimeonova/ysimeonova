@@ -15,6 +15,8 @@
 
 <img align="left" alt="C" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
 
+<img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 
 <img align="left" alt="HTML5" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
